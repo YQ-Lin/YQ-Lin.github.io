@@ -1,56 +1,77 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: #"About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+# <span id="introduction"></span>Introduction
+**目前正在招收<span style="color: red;">2026届硕士研究生</span>，对语音与语言处理、多模态学习与分析、大语言模型、人工智能在医疗健康中的应用、深度学习等感兴趣的同学请联系我。**
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am currently an Assistant Professor with the College of Computer and Data Science, Fuzhou University. 
+I received my Ph.D. degree in Computer Science and Technology from Tianjin University in 2024, 
+under the supervision of Prof. [Jianwu Dang](https://www.suat-sz.edu.cn/info/1159/2283.htm") and Prof. [Longbiao Wang](http://cic.tju.edu.cn/faculty/wanglongbiao/wang.html). 
+During my Ph.D. study, I was also a joint Ph.D. student at the University of Tokyo from 2023 to 2024, 
+supported by the China Scholarship Council (CSC), under the supervision of Prof. [Nobuaki Minematsu](https://www.eeis.t.u-tokyo.ac.jp/en/staff/minematsu-nobuaki/). 
+Prior to joining Fuzhou University, I worked as a research assistant at the Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, China.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+# <span id="research-interests"></span>Research Interests
+- Speech and Language Processing（语音与语言处理）
+- Multimodal Learning and Analysis（多模态学习与分析）
+- Large Language Models (LLMs)（大语言模型）
+- AI for Healthcare（人工智能在医疗健康中的应用）
+- Deep Learning（深度学习）
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Currently, I focus on speech recognition for disordered speech and cognitive decline detection.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+# <span id="education"></span>Education
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<ul style="list-style-type:none; margin-left: 0; padding-left: 0;">
+  <li>
+    <i>2020.09 - 2024.11</i>, Ph.D. in College of Intelligence and Computing, Tianjin University, Tianjin, China.
+  </li>
+  <li>
+    <i>2018.09	- 2020.07</i>, Master’s degree in College of Intelligence and Computing, Tianjin University, Tianjin, China.
+  </li>
+  <li>
+    <i>2014.09 - 2018.07</i>, Bachelor’s degree in Software Engineering, Northeast Normal University, Jilin, China.
+  </li>
+</ul>
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+# <span id="research-experience"></span>Research Experience
+<ul style="list-style-type:none; margin-left: 0; padding-left: 0;">
+  <li>
+    <i>2024.11 - 2025.06</i>, Research Asistant, Shenzhen Institutes of Advanced Technology, Shenzhen, China
+  </li>
+  <li>
+    <i>2024.06 - 2024.10</i>, Research Intern, Tencent AI Lab, Beijing, China.
+  </li>
+  <li>
+    <i>2023.04 - 2024.04</i>, Visiting Ph.D. student, University of Tokyo, Tokyo, Japan.
+  </li>
+  <li>
+    <i>2021.07 - 2022.10</i>, Research Intern, Alibaba DAMO Academy – Speech Lab, Hangzhou, China.
+  </li>
+  <li>
+    <i>2019.01 - 2019.09</i>, Research Intern, Huiyan Technology (Tianjin) Co., Ltd., Tianjin, China.
+  </li>
+  <li>
+    <i>2018.01 - 2018.06</i>, Research Intern, Beijing Xiaomi Technology Co., Ltd., Beijing, China.
+  </li>
+</ul>
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<!-- # <span id="publications"></span>Publications
+1. Y. Lin, L. Wang, J. Dang, N. Minematsu, “Gestural feature extraction and multi-feature co-activation for dysarthric speech recognition”, Information Fusion, 2025, 125: 103490. （中科院一区TOP，IF: 15.5）<br>
+2. Y. Lin, L. Wang, Y. Yang, J. Dang. “CFDRN: A Cognition-inspired Feature Decomposition and Recombination Network for Dysarthric Speech Recognition,” IEEE/ACM Transactions on Audio, Speech, and Language Processing, pp.3824-3836, 2023. （中科院一区）<br>
+3. Y. Lin, L. Wang, J. Dang, S. Li, C. Ding, “Disordered Speech Recognition Considering Low Resources and Abnormal Articulation,” Speech Communication. 2023, 155: 103002. （中科院二区，CCF-B）<br>
+4. Y. Lin, L. Wang, J. Dang, N. Minematsu, “Exploring Pre-trained Speech Model for Articulatory Feature Extraction in Dysarthric Speech Using ASR,” Proc. INTERSPEECH, pp.4598-4602, 2024. （语音顶会）<br>
+5. Y. Lin, L. Wang, J. Dang, S. Li, C. Ding, “End-to-end articulatory modeling for dysarthric articulatory attribute detection,” Proc. IEEE-ICASSP, pp. 7349-7353, 2020. （语音顶会）<br>
+6. Y. Lin, L. Wang, S. Li, J. Dang, C. Ding, “Staged knowledge distillation for dysarthric speech recognition and speech attribute transcription,” Proc. INTERSPEECH, pp. 4791-4795, 2020. （语音顶会）<br> -->
 
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+# <span id="awards-and-honors"></span>Awards and Honors
+- Named “Wiley China Open Science High Contribution Author”, <i>Q2 2023<br>
+- Awarded First-Class Academic Scholarship twice and Second-Class Academic Scholarship four times, Tianjin University, <i>2018–2023</i><br>
+- Awarded President’s Scholarship once and First-Class Scholarship twice, Northeast Normal University, <i>2014–2017</i><br>
+- Honored with the Specialty Excellence Award and Excellent Student Title, <i>2017</i><br>
