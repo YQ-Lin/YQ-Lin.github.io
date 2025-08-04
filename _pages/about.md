@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-<!-- # <span id="introduction"></span>Introduction -->
-**目前正在招收<span style="color: red;">2026届硕士研究生</span>，对语音与语言处理、多模态学习与分析、大语言模型、人工智能在医疗健康中的应用、深度学习等感兴趣的同学请联系我。**
+Introduction
+===
+
+**<span style="font-size: 1.1em;">目前正在招收<span style="color: red;">2026届硕士研究生</span>，对语音与语言处理、多模态学习与分析、大语言模型、人工智能在医疗健康中的应用、深度学习等感兴趣的同学请联系我。</span>**
 
 I am currently an Assistant Professor with the College of Computer and Data Science, Fuzhou University. 
 I received my Ph.D. degree in Computer Science and Technology from Tianjin University in 2024, 
