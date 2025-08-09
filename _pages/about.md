@@ -78,15 +78,3 @@ Currently, I focus on speech recognition for disordered speech and cognitive dec
 # <span id="service"></span>Service
 - Reviewer for jornals such as *IEEE Transactions on Audio, Speech, and Language Processing*, *npj Artificial Intelligence*, etc.<br>
 - Reviewer for conferences such as *Interspeech*, *ICASSP*, etc.<br>
-
-
-<div id="map-container" style="display: none; transform: scale(2.0); transform-origin: top left;">
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=5b4040&w=a&t=n&d=cqNRbx177cWQW--ivxTQ4i-8X49WS6IVp2XbJgi5TTE&co=b2d4ed'></script>
-</div>
-
-<script>
-  // 访问网址时加 ?showmap=1 才显示
-  if (window.location.search.includes('linlin')) {
-    document.getElementById('map-container').style.display = 'block';
-  }
-</script>
