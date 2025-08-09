@@ -74,3 +74,7 @@ Currently, I focus on speech recognition for disordered speech and cognitive dec
 - Awarded First-Class Academic Scholarship twice and Second-Class Academic Scholarship four times, Tianjin University, <i>2018–2023</i><br>
 - Awarded President’s Scholarship once and First-Class Scholarship twice, Northeast Normal University, <i>2014–2017</i><br>
 - Honored with the Specialty Excellence Award and Excellent Student Title, <i>2017</i><br>
+
+# <span id="service"></span>Service
+- Reviewer for jornals such as *IEEE Transactions on Audio, Speech, and Language Processing*, *npj Artificial Intelligence*, etc.<br>
+- Reviewer for conferences such as *Interspeech*, *ICASSP*, etc.<br>
