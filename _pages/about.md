@@ -79,28 +79,14 @@ Currently, I focus on speech recognition for disordered speech and cognitive dec
 - Reviewer for jornals such as *IEEE Transactions on Audio, Speech, and Language Processing*, *npj Artificial Intelligence*, etc.<br>
 - Reviewer for conferences such as *Interspeech*, *ICASSP*, etc.<br>
 
-<div id="map-container" style="display: none;">
+
+<div id="map-container" style="display: none; transform: scale(2.0); transform-origin: top left;">
   <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=5b4040&w=a&t=n&d=cqNRbx177cWQW--ivxTQ4i-8X49WS6IVp2XbJgi5TTE&co=b2d4ed'></script>
 </div>
 
 <script>
-(function(){
-    const showMapKey = "showClustrMap";
-    const urlParams = new URLSearchParams(window.location.search);
-
-    // 如果 URL 有 showmap=1，则记住
-    if (urlParams.get("showmap") === "1") {
-        localStorage.setItem(showMapKey, "true");
-    }
-
-    // 检查本地是否记住了权限
-    if (localStorage.getItem(showMapKey) === "true") {
-        // 加载 ClustrMaps
-        const s = document.createElement("script");
-        s.type = "text/javascript";
-        s.id = "clstr_globe";
-        s.src = "//clustrmaps.com/globe.js?d=cqNRbx177cWQW--ivxTQ4i-8X49WS6IVp2XbJgi5TTE";
-        document.body.appendChild(s);
-    }
-})();
+  // 访问网址时加 ?showmap=1 才显示
+  if (window.location.search.includes('linlin')) {
+    document.getElementById('map-container').style.display = 'block';
+  }
 </script>
