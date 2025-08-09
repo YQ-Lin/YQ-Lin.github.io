@@ -51,7 +51,7 @@ Currently, I focus on speech recognition for disordered speech and cognitive dec
     <i>2023.04 - 2024.04</i>, Visiting Ph.D. student, University of Tokyo, Tokyo, Japan.
   </li>
   <li>
-    <i>2021.07 - 2022.10</i>, Research Intern, Alibaba DAMO Academy – Speech Lab, Hangzhou, China.
+    <i>2021.07 - 2022.10</i>, Research Intern, Alibaba DAMO Academy – Speech Lab (now Tongyi Speech Team, Alibaba Group), Hangzhou, China.
   </li>
   <li>
     <i>2019.01 - 2019.09</i>, Research Intern, Huiyan Technology (Tianjin) Co., Ltd., Tianjin, China.
